@@ -8,13 +8,14 @@ $success-hover-color: #218838;
 $title-color: #ffffff;
 
 
-
-
-
 body{
     background-color: $bg-color-light;
-  margin: 0 auto;
-  padding: 0;
-  max-width: 1200px;
-  font-family: 'Arial', sans-serif;
+    margin: 0 auto;
+    padding: 0;
+    max-width: 1200px;
+    font-family: 'Arial', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: $primary_color;
 }
